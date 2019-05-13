@@ -1,2 +1,10 @@
-# first
-小白的第一份git代码
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>first</p>
+</body>
+</html>
